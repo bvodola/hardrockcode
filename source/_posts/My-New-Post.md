@@ -1,4 +1,4 @@
-title: "My New Post"
+title: "My New Post 2"
 date: 2015-05-07 15:22:18
 tags:
 ---
